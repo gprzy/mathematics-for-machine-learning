@@ -2,13 +2,13 @@
 
 $$y = \beta_0 + \beta_1x + \beta_2x^2 + \dots \beta_px^p$$
 
-Exemplos:
+**Exemplos**
 
-**Função linear**
+- **Função linear**
 $$y = \beta_0 + \beta_1x$$
 
-**Função quadrática**
+- **Função quadrática**
 $$y = \beta_0 + \beta_1x + \beta_2x^2$$
 
-**Função cúbica**
+- **Função cúbica**
 $$y = \beta_0 + \beta_1x + \beta_2x^2 + \beta_3x^3$$
